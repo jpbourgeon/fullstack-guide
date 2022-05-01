@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfullstack_guide=self.webpackChunkfullstack_guide||[]).push([[721],{4847:function(e){e.exports=JSON.parse('{"permalink":"/fullstack-guide/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
