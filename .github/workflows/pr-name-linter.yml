@@ -1,3 +1,5 @@
+# https://docs.github.com/en/actions/using-workflows
+
 name: Lint pull request name
 
 on:
